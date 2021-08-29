@@ -20,10 +20,6 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Apache" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Debian" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" />
 
 
 <!--

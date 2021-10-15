@@ -1,5 +1,6 @@
 ## Krabs - Stream Deck Development
 ![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=Krabs.Me&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fwww.krabs.me%2F) ![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=Stream%20Deck%20Labs&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fwww.streamdecklabs.com%2F)
+![Discord](https://img.shields.io/discord/887663495196323860?style=for-the-badge)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krabs-github&theme=github_dark&show_icons=true&hide_border=true&icon_color=97CA00&title_color=ffffff)
 

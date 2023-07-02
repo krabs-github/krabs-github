@@ -1,9 +1,9 @@
 ## Krabs - Stream Deck Development
 ![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=Krabs.Me&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fwww.krabs.me%2F) ![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=Stream%20Deck%20Labs&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fwww.streamdecklabs.com%2F)
 ![Discord](https://img.shields.io/discord/887663495196323860?color=%2397CA00&label=Discord&style=for-the-badge)
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krabs-github&theme=github_dark&show_icons=true&hide_border=true&icon_color=97CA00&title_color=ffffff)
-
+-->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Atom" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
